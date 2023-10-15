@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-ecommerce-website/static/css/main.56ee5ef1.css",
+    "main.js": "/react-ecommerce-website/static/js/main.9cef7f6c.js",
+    "static/js/787.980c98b1.chunk.js": "/react-ecommerce-website/static/js/787.980c98b1.chunk.js",
+    "static/media/background.jpg": "/react-ecommerce-website/static/media/background.8f54d9464c8486f5c52a.jpg",
+    "static/media/dslr.jpg": "/react-ecommerce-website/static/media/dslr.e938b5febe36b90d4c2c.jpg",
+    "static/media/baby-doll.jpg": "/react-ecommerce-website/static/media/baby-doll.7992e75900f55c476e46.jpg",
+    "static/media/tab.jpg": "/react-ecommerce-website/static/media/tab.f83606c77866dde4adc1.jpg",
+    "static/media/bag.jpg": "/react-ecommerce-website/static/media/bag.f55c38eaf304dcdb7965.jpg",
+    "static/media/glasses.jpg": "/react-ecommerce-website/static/media/glasses.73d67394f762fb925f3e.jpg",
+    "static/media/shoes.jpg": "/react-ecommerce-website/static/media/shoes.fcd64252734e07f9c1fa.jpg",
+    "static/media/shirt.jpg": "/react-ecommerce-website/static/media/shirt.9f235b9046340f98c7b9.jpg",
+    "static/media/rolex.jpg": "/react-ecommerce-website/static/media/rolex.8f62ae50043a18ee2934.jpg",
+    "static/media/iphone.jpg": "/react-ecommerce-website/static/media/iphone.0fc03e3fd4e89f69eb14.jpg",
+    "static/media/headphone.jpg": "/react-ecommerce-website/static/media/headphone.38b1d75527c3a333eb83.jpg",
+    "static/media/perse.jpg": "/react-ecommerce-website/static/media/perse.feb01df57b46df74fa77.jpg",
+    "static/media/watch.jpg": "/react-ecommerce-website/static/media/watch.c839ae0020bcccf5776f.jpg",
+    "index.html": "/react-ecommerce-website/index.html",
+    "main.56ee5ef1.css.map": "/react-ecommerce-website/static/css/main.56ee5ef1.css.map",
+    "main.9cef7f6c.js.map": "/react-ecommerce-website/static/js/main.9cef7f6c.js.map",
+    "787.980c98b1.chunk.js.map": "/react-ecommerce-website/static/js/787.980c98b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56ee5ef1.css",
+    "static/js/main.9cef7f6c.js"
+  ]
+}
